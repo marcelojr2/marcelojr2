@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Marcelo%20Macedo%20Jr.&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Data%20Science%20%26%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Marcelo%20Macedo%20Jr.&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Data%20Science%20and%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -23,7 +23,6 @@
 - 🤖 **Machine Learning**: deep learning, NLP, reinforcement learning and on-device models with MLX and Apple Foundation Models
 - 📊 **Analytics**: GA4 → BigQuery pipelines, trial funnels, subscription churn and data-driven product decisions
 - 🦙 Running and experimenting with **local LLMs** on Apple Silicon
-- 💬 Ask me about **Swift, SwiftUI, Python, ML, agents and data analysis**
 
 ## 🛠️ Tech stack
 
