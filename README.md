@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About me
+## About me
 
 - 📱 **iOS Developer** at [**Prêt-à-Template**](https://apps.apple.com/us/app/pr%C3%AAt-%C3%A0-template/id839537579), a fashion design sketching app for iPad and iPhone
 - 🔬 **Researcher at [DaVInt](https://www.inf.pucrs.br/davint/)**, a research lab at PUCRS, working on a project about **AI agents**
@@ -24,7 +24,7 @@
 - 📊 **Analytics**: GA4 → BigQuery pipelines, trial funnels, subscription churn and data-driven product decisions
 - 🦙 Running and experimenting with **local LLMs** on Apple Silicon
 
-## 🛠️ Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -56,13 +56,13 @@
 
 </div>
 
-## 📈 GitHub activity
+## GitHub activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=marcelojr2&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelojr2&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/marcelojr2/marcelojr2/output/activity-graph.svg" alt="Contribution graph" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcelojr2/marcelojr2/output/github-snake-dark.svg"/>
